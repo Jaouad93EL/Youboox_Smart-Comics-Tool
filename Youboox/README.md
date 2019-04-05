@@ -21,8 +21,3 @@ En enregistrant le JSON depuis le site web, il faut le déplacer dans le même e
 * HTML/CSS
 * JAVASCRIPT
 * Jquery, Jquery UI, 
-
-
-## Auteurs
-
-* **MOKHTARI SOFIANE** - **JAOUAD EL HORMI** - **MITONY ANDRIAN'NY HAJA** - **MAHAVONJY CYNTHION MAMPIONONA** 
